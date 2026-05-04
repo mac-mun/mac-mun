@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a Quantitative Researcher who is passionate about finding hidden patterns in financial markets and building models that turn uncertainty into opportunity.
+I'm a Quantitative Researcher who is passionate about finding  patterns and building models that turn uncertainty into opportunity.
 
 ## 🔧 Technologies & Tools
 - Python, C++
